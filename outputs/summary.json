@@ -1,0 +1,15 @@
+{
+  "processed_frames": 376,
+  "source_fps": 25.0,
+  "unique_tracked_objects": 35,
+  "line_crossings": {
+    "down": 11,
+    "up": 3
+  },
+  "class_counts": {
+    "car": 1650,
+    "bus": 199,
+    "truck": 68,
+    "person": 40
+  }
+}
